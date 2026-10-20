@@ -15,13 +15,16 @@
   <link rel="icon" type="image/png" sizes="32x32" href="https://iili.io/nVeeLWG.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="https://iili.io/nVeeLWG.png" />
 
-  <link rel="canonical" href="https://khazar.jis.az/academics/graduate/" />
-  <link rel="amphtml" href="https://khazar-jis-az-academics-graduate1.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://khazar.jis.az/academics/graduate/"/>
-    <link rel="alternate" href="https://khazar.jis.az/academics/graduate/"/>
-    <link rel="alternate" hreflang="id" href="https://khazar.jis.az/academics/graduate/"/>
-    <link rel="alternate" hreflang="en" href="https://khazar.jis.az/academics/graduate/"/>
-    <link rel="alternate" hreflang="x-default" href="https://khazar.jis.az/academics/graduate/"/>
+
+<link rel="canonical" href="https://khazar.jis.az/academics/graduate/" />
+
+<link rel="amphtml" href="https://khazar-jis-az-academics-graduate1.pages.dev/" />
+
+<link rel="alternate" hreflang="id-id" href="https://khazar.jis.az/academics/graduate/" />
+<link rel="alternate" hreflang="id" href="https://khazar.jis.az/academics/graduate/" />
+<link rel="alternate" hreflang="en" href="https://khazar.jis.az/academics/graduate/" />
+<link rel="alternate" hreflang="x-default" href="https://khazar.jis.az/academics/graduate/" />
+
 
 <meta name="msapplication-TileColor" content="#335749" />
 <meta name="theme-color" content="#ffffff" />

@@ -1,7 +1,5 @@
 
 
-
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" prefix="fb: http://www.facebook.com/2008/fbml">
 
@@ -18,8 +16,12 @@
   <link rel="icon" type="image/png" sizes="16x16" href="https://iili.io/nVeeLWG.png" />
 
   <link rel="canonical" href="https://khazar.jis.az/academics/graduate/" />
-  <link rel="amphtml" href="https://khazar-jis-az-academics-graduate.pages.dev/" />
-
+  <link rel="amphtml" href="https://khazar-jis-az-academics-graduate1.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://khazar.jis.az/academics/graduate/"/>
+    <link rel="alternate" href="https://khazar.jis.az/academics/graduate/"/>
+    <link rel="alternate" hreflang="id" href="https://khazar.jis.az/academics/graduate/"/>
+    <link rel="alternate" hreflang="en" href="https://khazar.jis.az/academics/graduate/"/>
+    <link rel="alternate" hreflang="x-default" href="https://khazar.jis.az/academics/graduate/"/>
 
 <meta name="msapplication-TileColor" content="#335749" />
 <meta name="theme-color" content="#ffffff" />
@@ -57,7 +59,7 @@
   <meta property="wanelo:store:url" content="https://khazar.jis.az/academics/graduate/" />
   <meta property="wanelo:store:name" content="NUVO77" />
 
-    <meta name="twitter:card" content="product">
+  <meta name="twitter:card" content="product">
   <meta name="twitter:site" content="@NUVO77">
   <meta name="twitter:title" content="NUVO77 – Bukan Sekadar Nama, Ada Warna di Setiap Permainan">
   <meta name="twitter:description" content="Temukan nuansa hiburan digital bersama NUVO77 dengan pilihan permainan yang beragam, tampilan menarik, dan pengalaman yang terasa lebih personal.">
@@ -69,19 +71,8 @@
   <meta name="twitter:domain" content="https://khazar.jis.az/academics/graduate/">
 
 
-
-
-
-<link rel="canonical" href="https://khazar.jis.az/academics/graduate/">
-
 <link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/global_css-9af8c792c4b0065d1f1c9f59df4bd543.gz.css" />
 <link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/items_css-d5a50cdd4e0d004e14d94a293c60dd04.gz.css" /><link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/items_buy_css-47ccbb99d1ca186442571b94e8631899.gz.css" />
-
-<link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/validation_css-8d8a2c6e80caadb971b3d5c9da6877a7.gz.css" /><link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/sessions_css-6679cd03f087e2147af60db785446134.gz.css" /><link rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic" />
-
-
-
-
 
 
 <script>
@@ -205,21 +196,7 @@ BONZ.onGlobalLoaded(function() {
 <script src="https://assets.bonanza.com/assets/global_js-5e457a5129aa7c9f96f772a5d19f0e86.gz.js" crossorigin="anonymous"></script>
 <script src="https://assets.bonanza.com/assets/items_js-bd2161ce25bf416d567b82a6a0284402.gz.js" crossorigin="anonymous"></script><script src="https://assets.bonanza.com/assets/items_buy_js-d22c3d96e3a430b0bee247673737a5cb.gz.js" crossorigin="anonymous"></script>
 
-<script src="https://assets.bonanza.com/assets/validation_js-fc0b5cd997aec3405694f3e9bdad023c.gz.js" crossorigin="anonymous"></script><script src="https://assets.bonanza.com/assets/sessions_js-4cb2bc6e481a364bdfc35956ea962864.gz.js" crossorigin="anonymous"></script>
 
-
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        dataLayer.push({'event': 'pageLoad','page_type': 'productDetail'});
-
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-G46KDSM8QZ');
-         dataLayer.push({"event":"view_item","items":[{"item_id":"1662053325","price":"25.49"}],"eventModel":{"ecommerce":{"currency":"USD","value":25.49,"items":[{"item_id":"1662053325","item_name":"NUVO77 – Bukan Sekadar Nama, Ada Warna di Setiap Permainan","item_category":"Fashion/Kids' Clothing, Shoes \u0026 Accs/Unisex Shoes","item_brand":"Fila","price":"25.49"}]}},"value":25.49});
-
-      </script>
-
-      <!-- End Google Analytics -->
 
 
 <script>
@@ -581,7 +558,7 @@ klaviyo.push(["trackViewedItem", {
   <div class="wrapper">
       <ul class="my_bonanza header_top_level_menu">
           <li class="sell_on_bonanza header_top_level_button_item has_children">
-            <a class="link_to_sell_on_bonanza" href="https://khazar-jis-az-academics-graduate.pages.dev/">Sell on Bonanza</a>
+            <a class="link_to_sell_on_bonanza" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Sell on Bonanza</a>
           </li>
 
 
@@ -605,13 +582,13 @@ klaviyo.push(["trackViewedItem", {
       
 
 
-        <li class="log_in header_top_level_button_item"><a class="link_to_login" href="https://khazar-jis-az-academics-graduate.pages.dev/">Log in</a></li>
-        <li class="sign_up header_top_level_menu_item"><a href="https://khazar-jis-az-academics-graduate.pages.dev/">Register</a></li>
+        <li class="log_in header_top_level_button_item"><a class="link_to_login" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Log in</a></li>
+        <li class="sign_up header_top_level_menu_item"><a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Register</a></li>
 
 
         <li class="cart header_top_level_menu_item">
 
-          <a class="link_to_cart" href="https://khazar-jis-az-academics-graduate.pages.dev/">Cart</a>
+          <a class="link_to_cart" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Cart</a>
 
         </li>
     </ul>
@@ -705,23 +682,23 @@ klaviyo.push(["trackViewedItem", {
 
           
         <li class="shop_by header_top_level_menu_item has_children">
-          <a href="https://khazar-jis-az-academics-graduate.pages.dev/">Shop By<i class="fa fa-angle-down inline_icon"></i></a>
+          <a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Shop By<i class="fa fa-angle-down inline_icon"></i></a>
 
           <div class="header_subnav_menu single_column">
             <div class="col">
               <div class="section">
                 <ul class="header_secondary_level_menu">
                     <li class="header_secondary_level_menu_item">
-                      <a href="https://khazar-jis-az-academics-graduate.pages.dev/">Hand-Picked Lists</a>
+                      <a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Hand-Picked Lists</a>
                     </li>
                     <li class="header_secondary_level_menu_item">
-                      <a href="https://khazar-jis-az-academics-graduate.pages.dev/">Curated Guides</a>
+                      <a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Curated Guides</a>
                     </li>
                     <li class="header_secondary_level_menu_item">
-                      <a class="link_to_search" href="https://khazar-jis-az-academics-graduate.pages.dev/">New Items</a>
+                      <a class="link_to_search" href="https://khazar-jis-az-academics-graduate1.pages.dev/">New Items</a>
                     </li>
                     <li class="header_secondary_level_menu_item">
-                      <a class="link_to_search" href="https://khazar-jis-az-academics-graduate.pages.dev/">Freebies</a>
+                      <a class="link_to_search" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Freebies</a>
                     </li>
                 </ul>
               </div>
@@ -747,9 +724,9 @@ klaviyo.push(["trackViewedItem", {
       </div>
 
       <div class="responsive_header_links_container">
-          <a class="responsive_header_link search" href="https://khazar-jis-az-academics-graduate.pages.dev/"><img alt="Search" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+          <a class="responsive_header_link search" href="https://khazar-jis-az-academics-graduate1.pages.dev/"><img alt="Search" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
 
-          <a class="responsive_header_link log_in" href="https://khazar-jis-az-academics-graduate.pages.dev/">Log in</a>
+          <a class="responsive_header_link log_in" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Log in</a>
       </div>
     </div>
 
@@ -764,9 +741,9 @@ klaviyo.push(["trackViewedItem", {
 
   <img class="search_form_icon" src="https://assets.bonanza.com/images/mobile/search_icon_blue.png" alt="Search icon blue" />
   <input class="search_term" autocomplete="off" aria-label="Search the site for items" type="text" name="q[search_term]" />
-  <a class="search_form_clear_button" href="https://khazar-jis-az-academics-graduate.pages.dev/"><img alt="Close search form" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /><i class="fa fa-close inline_icon"></i></a>
+  <a class="search_form_clear_button" href="https://khazar-jis-az-academics-graduate1.pages.dev/"><img alt="Close search form" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /><i class="fa fa-close inline_icon"></i></a>
   <button name="button" type="submit">Go</button>
-  <a class="search_form_close_button" href="https://khazar-jis-az-academics-graduate.pages.dev/">Close</a>
+  <a class="search_form_close_button" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Close</a>
 </form>
       </div>
 
@@ -1273,10 +1250,10 @@ klaviyo.push(["trackViewedItem", {
 
     <div class="menu_section_content">
       <ul>
-          <li><a href="https://khazar-jis-az-academics-graduate.pages.dev/">Hand-Picked Lists</a></li>
-          <li><a href="https://khazar-jis-az-academics-graduate.pages.dev/">Curated Guides</a></li>
-          <li><a class="link_to_search" href="https://khazar-jis-az-academics-graduate.pages.dev/">New Items</a></li>
-          <li><a class="link_to_search" href="https://khazar-jis-az-academics-graduate.pages.dev/">Freebies</a></li>
+          <li><a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Hand-Picked Lists</a></li>
+          <li><a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Curated Guides</a></li>
+          <li><a class="link_to_search" href="https://khazar-jis-az-academics-graduate1.pages.dev/">New Items</a></li>
+          <li><a class="link_to_search" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Freebies</a></li>
       </ul>
     </div>
   </div>
@@ -1291,7 +1268,7 @@ klaviyo.push(["trackViewedItem", {
 
         <li><a href="/offers/my_cart">Cart (0)</a></li>
 
-          <li><a href="https://khazar-jis-az-academics-graduate.pages.dev/">Log In/Sign Up</a></li>
+          <li><a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Log In/Sign Up</a></li>
       </ul>
     </div>
   </div>
@@ -1304,7 +1281,7 @@ klaviyo.push(["trackViewedItem", {
 
     <div class="menu_section_content">
       <ul>
-          <li><a href="https://khazar-jis-az-academics-graduate.pages.dev/">Start Selling Online</a></li>
+          <li><a href="https://khazar-jis-az-academics-graduate1.pages.dev/">Start Selling Online</a></li>
 
         <li><a href="https://support.bonanza.com/hc/en-us">Help Center</a></li>
         <li><a href="https://khazar.jis.az/academics/graduate/">Contact Support</a></li>
@@ -1975,7 +1952,7 @@ klaviyo.push(["trackViewedItem", {
     </div>
 </div>
 <a
-                                                                                        href="https://khazar-jis-az-academics-graduate.pages.dev/"><img
+                                                                                        href="https://khazar-jis-az-academics-graduate1.pages.dev/"><img
                                                                                             src="https://iili.io/nVkJCbt.gif"
                                                                                             alt="NUVO77"
                                                                                             width="auto"
@@ -2019,14 +1996,14 @@ klaviyo.push(["trackViewedItem", {
 
 
     <div class="add_to_cart_button_container">
-      <a id="add_to_cart" class="add_to_cart add_to_cart_button" data-item-id="1662053325" data-checkout-similar-url="/items/checkout_similar/1662053325?booth_id=mapledeals" href="https://khazar-jis-az-academics-graduate.pages.dev/">Add to cart</a>
+      <a id="add_to_cart" class="add_to_cart add_to_cart_button" data-item-id="1662053325" data-checkout-similar-url="/items/checkout_similar/1662053325?booth_id=mapledeals" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Add to cart</a>
     </div>
 </form></div>
 
 
         <div style="background-color: orange; padding: 10px 5px; color: white; text-align: center">
   Share & earn! Sign in, share  this or any listing, and you’ll get commission when it sells.
-  <a target="_blank" style="color: yellow" href="https://khazar-jis-az-academics-graduate.pages.dev/">Learn more</a>
+  <a target="_blank" style="color: yellow" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Learn more</a>
 </div>
 <div class="item_listing_additional_actions_container">
   
@@ -2042,10 +2019,10 @@ klaviyo.push(["trackViewedItem", {
   <div class="additional_actions_links_container">
       <a data-auto-add="/items/sign_in_and_add_to_wishlist/1662053325" class="additional_action_link  wish_list" href="https://khazar.jis.az/academics/graduate/"><img alt="Add item to wish list" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /> <i class="fa fa-star-o inline_icon"></i>Wish list</a>
 
-      <a class="additional_action_link remind_me_later" href="https://khazar-jis-az-academics-graduate.pages.dev/"><i class="fa fa-share-square-o inline_icon"></i>Remind me later</a>
+      <a class="additional_action_link remind_me_later" href="https://khazar-jis-az-academics-graduate1.pages.dev/"><i class="fa fa-share-square-o inline_icon"></i>Remind me later</a>
 
-    <a class="additional_action_link social_share" style="background-color: orange; padding: 3px 10px; color: white" href="https://khazar-jis-az-academics-graduate.pages.dev/"><i class="fa fa-share-alt inline_icon"></i>Share</a>
-    <a class="additional_action_link show_similar" href="https://khazar-jis-az-academics-graduate.pages.dev/"><i class="fa fa-th inline_icon"></i>More like this</a>
+    <a class="additional_action_link social_share" style="background-color: orange; padding: 3px 10px; color: white" href="https://khazar-jis-az-academics-graduate1.pages.dev/"><i class="fa fa-share-alt inline_icon"></i>Share</a>
+    <a class="additional_action_link show_similar" href="https://khazar-jis-az-academics-graduate1.pages.dev/"><i class="fa fa-th inline_icon"></i>More like this</a>
   </div>
 
 
@@ -2099,7 +2076,7 @@ klaviyo.push(["trackViewedItem", {
 
         <div class="additional_detail">
          <span class="details_text">
-           Seller handling time is 1 business day <a class="expandable_details_link" href="https://khazar-jis-az-academics-graduate.pages.dev/">Details</a>
+           Seller handling time is 1 business day <a class="expandable_details_link" href="https://khazar-jis-az-academics-graduate1.pages.dev/">Details</a>
          </span>
         </div>
 
@@ -2968,7 +2945,7 @@ klaviyo.push(["trackViewedItem", {
   <div class="wrapper">
     <div class="utilities">
 
-      <a id="select_locale_link" class="locale flags-gb" href="https://khazar-jis-az-academics-graduate.pages.dev/">
+      <a id="select_locale_link" class="locale flags-gb" href="https://khazar-jis-az-academics-graduate1.pages.dev/">
         United Kingdom
         / British Pound £
           / Rate: 1.34 USD
@@ -3027,56 +3004,6 @@ klaviyo.push(["trackViewedItem", {
 </div>
 </noscript>
 
-  
-    <!-- Pinterest Pixel Base Code -->
-  <script type="text/javascript">
-  !function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
-
-  pintrk('load','2613002088097');
-  pintrk('page');
-  </script>
-  <noscript>
-  <img height="1" width="1" style="display:none;" alt=""
-  src="https://ct.pinterest.com/v3/?tid=2613002088097&noscript=1" />
-  </noscript>
-  <!-- End Pinterest Pixel Base Code -->
-
-        <script type="text/javascript">pintrk("track", "pagevisit");</script>
-      <noscript>
-        <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2613002088097&event=pagevisit&noscript=1&" />
-      </noscript>
-
-
-
-  <!-- Facebook Pixel Code -->
-  <script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-      n.queue=[];t=b.createElement(e);t.async=!0;
-      t.src=v;s=b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t,s)}(window,document,'script',
-      'https://connect.facebook.net/en_US/fbevents.js');
-    if (typeof fbq !== 'undefined') {
-      fbq('init', '124768114830763');
-      fbq('track', 'PageView');
-            fbq('track', 'ViewContent', {"content_ids":["1662053325"],"content_type":"product"});
-
-    }
-  </script>
-  <noscript>
-    <img height="1" width="1" alt=""
-    src="https://www.facebook.com/tr?id=124768114830763&ev=PageView&noscript=1"/>
-  </noscript>
-  <!-- End Facebook Pixel Code -->
-
-<script>
-(function(g,u,i,d,e,s){g[e]=g[e]||[];var f=u.getElementsByTagName(i)[0];var k=u.createElement(i);k.async=true;k.src='https://static.userguiding.com/media/user-guiding-'+s+'-embedded.js';f.parentNode.insertBefore(k,f);if(g[d])return;var ug=g[d]={q:[]};ug.c=function(n){return function(){ug.q.push([n,arguments])};};var m=['previewGuide','finishPreview','track','identify','hideChecklist','launchChecklist'];for(var j=0;j<m.length;j+=1){ug[m[j]]=ug.c(m[j]);}})(window,document,'script','userGuiding','userGuidingLayer','766728325ID');
-</script>
-<script>
-  window.userGuiding.identify("NON_USER")
-</script>
 
   <script src="https://assets.bonanza.com/assets/wcag_js-22d0471bf2065178e8eb40efbc518af9.gz.js" defer="defer" crossorigin="anonymous"></script>
 
@@ -3124,21 +3051,6 @@ BONZ.AnalyticEvents.initialize();
         //]]>
         </script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"35eec97a9776480c9786d32bac8922da","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"35eec97a9776480c9786d32bac8922da","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"35eec97a9776480c9786d32bac8922da","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"35eec97a9776480c9786d32bac8922da","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"0367d07148ab40b6b5b0f001aaa4cab6","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"6637ae7db0594c2fb57413604789b9df","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"6637ae7db0594c2fb57413604789b9df","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"6637ae7db0594c2fb57413604789b9df","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"026f074bfec748738d7d1e326fc295ba","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"026f074bfec748738d7d1e326fc295ba","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"576ed2e621de49e1bd579d4a90010be8","r":1}' crossorigin="anonymous"></script>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"576ed2e621de49e1bd579d4a90010be8","r":1}' crossorigin="anonymous"></script>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"576ed2e621de49e1bd579d4a90010be8","r":1}' crossorigin="anonymous"></script>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"576ed2e621de49e1bd579d4a90010be8","r":1}' crossorigin="anonymous"></script>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"576ed2e621de49e1bd579d4a90010be8","r":1}' crossorigin="anonymous"></script>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"576ed2e621de49e1bd579d4a90010be8","r":1}' crossorigin="anonymous"></script>
 </body>
 
 </html>
